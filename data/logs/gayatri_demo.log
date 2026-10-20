@@ -1,0 +1,5 @@
+2026-10-20 11:48:08 [INFO] [gayatri.central_platform.courses]: Loaded 3 courses from binary container: C:\Users\ADMIN\Desktop\GayatriAI\Gayatri-Demo\demo_data\courses.dat
+2026-10-20 11:48:08 [INFO] [gayatri.central_platform.rag]: Loaded 3 courses into RAG from binary container: C:\Users\ADMIN\Desktop\GayatriAI\Gayatri-Demo\demo_data\courses.dat
+2026-10-20 11:49:53 [INFO] [gayatri.central_platform.courses]: Loaded 3 courses from binary container: C:\Users\ADMIN\Desktop\GayatriAI\Gayatri-Demo\demo_data\courses.dat
+2026-10-20 11:49:54 [INFO] [gayatri.central_platform.rag]: Loaded 3 courses into RAG from binary container: C:\Users\ADMIN\Desktop\GayatriAI\Gayatri-Demo\demo_data\courses.dat
+2026-10-20 11:50:03 [INFO] [gayatri.central_platform.tutor]: Active tutoring course switched to: Engineering Mathematics (engineering_mathematics)
